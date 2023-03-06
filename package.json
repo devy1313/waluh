@@ -1,0 +1,14 @@
+{
+  "name": "@forresto/video-to-lottie",
+  "main": "1cc9ae3611f6886a@497.js",
+  "version": "497.0.0",
+  "homepage": "https://observablehq.com/@forresto/video-to-lottie",
+  "author": {
+    "name": "Forrest O.",
+    "url": "https://observablehq.com/@forresto"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
